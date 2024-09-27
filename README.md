@@ -35,6 +35,10 @@ Step 18
 ```
 #### Description Of The App 
 
+
+The application uses a class to make shapes. The class can be imported.
+
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
+https://github.com/user-attachments/assets/9c964a19-f0e9-4c2c-832d-f4647a60a720
